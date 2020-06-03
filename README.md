@@ -1,6 +1,6 @@
 # removing_multiCollinearity
  
-This Jupyter notebook helps you understand and implement removal of multi-collinearity using python.
+This python file helps you understand and implement removal of multi-collinearity using python.
 
 * Method 1 ---> Using Correlation Plot
 * Method 2 ---> Using Varaince Influence Factor
