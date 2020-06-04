@@ -1,6 +1,6 @@
 # removing_multiCollinearity
  
-*Link for the Medium Article* : https://medium.com/@princebaretto/removing-multi-collinearity-for-linear-and-logistic-regression-f1fa744f3666
+*Link for the Medium Article* : https://medium.com/@princebaretto/removing-multi-collinearity-for-linear-and-logistic-regression-f1fa744f3666 <br>
 This python file helps you understand and implement removal of multi-collinearity using python.
 
 * Method 1 ---> Using Correlation Plot
